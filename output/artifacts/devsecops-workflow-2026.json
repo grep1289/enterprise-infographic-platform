@@ -1,0 +1,6 @@
+{
+  "prompt": "Generate an editable infographic for a modern DevSecOps workflow in 2026, including cloud-native security automation, continuous compliance, secure infrastructure, developer collaboration, and risk monitoring.",
+  "provider": "mock",
+  "svgPath": "/workspaces/enterprise-infographic-platform/output/artifacts/devsecops-workflow-2026.svg",
+  "pptxPath": "/workspaces/enterprise-infographic-platform/output/artifacts/devsecops-workflow-2026.pptx"
+}
